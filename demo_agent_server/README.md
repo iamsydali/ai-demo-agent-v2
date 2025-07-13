@@ -21,7 +21,7 @@ This is a Python backend for an AI-powered sales demo agent. It uses Flask for t
 1. **Clone the repository:**
    ```bash
    git clone <your-repo-url>
-   cd ai_sales_agent_backend
+   cd demo_agent_server
    ```
 2. **Create and activate a virtual environment:**
    ```bash
