@@ -1,0 +1,13 @@
+{
+    "name": "Google Maps Demo",
+    "start_url": "https://www.google.com/maps",
+    "initial_greeting": "Hello! Welcome to the Google Maps demo.",
+    "product_features": [
+      "Comprehensive global mapping data with real-time traffic updates.",
+      "Detailed satellite imagery and Street View for immersive exploration.",
+      "Robust navigation features for driving, walking, cycling, and public transport.",
+      "Ability to search for places, businesses, and points of interest worldwide.",
+      "Personalized recommendations and saved places for easy access."
+    ]
+  }
+  
