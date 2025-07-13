@@ -1,0 +1,19 @@
+/* src/index.css */
+
+/* Import Tailwind's base styles, components, and utilities */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*
+  You can add any custom global CSS here if needed,
+  but for this project, most styling is handled by Tailwind utility classes
+  directly in the React components.
+*/
+
+/* Example: Custom font if not loaded via Tailwind config */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+body {
+  font-family: 'Inter', sans-serif;
+}
